@@ -39,6 +39,7 @@ app.get(`/`, (req, res) => {
   })
 });
 
+
 app.get(`/api`, (req, res) => {
   // Send out the fetch request to get the current rates
   fetch(`https://www.bnr.ro/nbrfxrates.xml`)
