@@ -1,0 +1,16 @@
+{
+  "name": "schimbvalutar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myConnection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fast-xml-parser": "^3.17.4",
+    "mysql": "^2.18.1"
+  }
+}
